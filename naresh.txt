@@ -1,4 +1,7 @@
-hi this is a session from keshav 
+hi This is a session from keshav 
+
+
+and also shantau
 
 
 
@@ -17,8 +20,8 @@ hi this is a session from keshav
 
 
 
+:wq
 
-
-
-
+:wq
+:q
 
